@@ -21,7 +21,7 @@ I'm continuously learning and improving my skills across frontend development, b
 
 ---
 
-# Skills & Technologies**
+# Skills & Technologies
 
 <br>
 
