@@ -79,6 +79,12 @@ I'm continuously learning and improving my skills across frontend development, b
 
 </a>
 
+<a href="mailto:usamasial220@gmail.com">
+  
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+</a>
+
 <a href="https://linkedin.com/in/usama-hasnat-web/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
