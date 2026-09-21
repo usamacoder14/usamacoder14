@@ -1,7 +1,6 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Hi%2C+I'm+Usama Hasnat;Full-Stack+Developer;Software+Developer;WordPress+Developer;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Hi%2C+I'm+Usama Hasnat;Full-Stack+Developer;Software+Developer;WordPress+Developer;Graphic+Designer;UI%2FUX+Designer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -73,14 +72,7 @@ Tools	Git, GitHub, VS Code
 🌐 Connect With Me
 
 <div align="center"> 
-  
-<a href="https://github.com/usamacoder14"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a> 
-
-<a href="linkedin.com/in/usama-hasnat-web/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-
-<a href="www.instagram.com/codewith.usama/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
-
-</div>
+<a href="https://github.com/usamacoder14"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="linkedin.com/in/usama-hasnat-web/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="www.instagram.com/codewith.usama/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
 
 <br> 
 
