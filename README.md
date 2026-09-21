@@ -59,11 +59,10 @@ I'm continuously learning and improving my skills across frontend development, b
 
 ---
 
-# GitHub Statistics
-
 <br>
 
 📊 GitHub Statistics
+
 <div align="center"> 
 
 <img src="https://komarev.com/ghpvc/?username=usamacoder14&label=Profile+Views&color=00D9FF&style=flat" />
@@ -80,9 +79,11 @@ I'm continuously learning and improving my skills across frontend development, b
 
 ---
 
+<br>
+
 # Connect with Me
 
-<br>
+<br><br>
 
 <div align="center"> 
 
