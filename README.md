@@ -7,63 +7,57 @@
 
 ---
 
-# About Me
+# 💠 About Me
 
 Hi! I'm **Usama Hasnat**, a passionate **Full-Stack Developer**, **Software Developer**, **WordPress Developer**, **Graphic Designer**, and **UI/UX Designer**.
 
-
-I enjoy building modern, responsive, and user-friendly digital experiences. My work combines clean code, functional applications, creative design, and intuitive user interfaces.
-
+I enjoy building modern, responsive, and user-friendly digital experiences. My work combines **clean code, functional applications, creative design, and intuitive user interfaces**.
 
 I'm continuously learning and improving my skills across frontend development, backend development, WordPress, software development, and digital design.
 
-🚀 Turning ideas into modern, functional, and visually appealing digital experiences.
+> 🚀 Turning ideas into modern, functional, and visually appealing digital experiences.
 
 ---
 
-# Skills & Technologies
+# 🛠️ Skills & Technologies
 
-<br>
+### 🎨 Frontend Development
 
-🎨 Frontend Development
+<div align="center">
 
-<div align="center"> 
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap" /> 
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap" />
 
 </div>
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
-<div align="center"> 
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,php,wordpress" /> 
-
-</div>
-
-🎨 Design
-
-<div align="center"> 
-
-<img src="https://skillicons.dev/icons?i=figma,canva" /> 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,php,wordpress" />
 
 </div>
 
-🔧 Tools & Version Control
+### 🎨 Design
 
-<div align="center"> 
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> 
+<img src="https://skillicons.dev/icons?i=figma,canva" />
+
+</div>
+
+### 🔧 Tools & Version Control
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-<br>
+# 📊 GitHub Statistics
 
-📊 GitHub Statistics
-
-<div align="center"> 
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=usamacoder14&label=Profile+Views&color=00D9FF&style=flat" />
 
@@ -71,7 +65,31 @@ I'm continuously learning and improving my skills across frontend development, b
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=usamacoder14&theme=dark&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<br><br>
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/usamacoder14">
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+<a href="https://linkedin.com/in/usama-hasnat-web/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+<a href="https://www.instagram.com/codewith.usama/">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+</a>
 
 </div>
 
@@ -79,39 +97,9 @@ I'm continuously learning and improving my skills across frontend development, b
 
 <br>
 
-# Connect with Me
-
-<br><br>
-
-<div align="center"> 
-
-  <a href="https://github.com/usamacoder14"> 
-  
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> 
-  
-  </a> 
-
-  <a href="linkedin.com/in/usama-hasnat-web/"> 
-      
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-
-  </a> 
-
-  <a href="www.instagram.com/codewith.usama/"> 
-
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-
-  </a> 
-
- </div>
-
----
-
-<br>
-
 <div align="center">
 
-### Thank You for Visiting My GitHub Profile
+### 💙 Thank You for Visiting My GitHub Profile
 
 I hope you find my projects interesting and valuable.
 
