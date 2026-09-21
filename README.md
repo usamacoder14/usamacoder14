@@ -73,8 +73,6 @@ I'm continuously learning and improving my skills across frontend development, b
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamacoder14&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false" /> 
-
 </div>
 
 ---
